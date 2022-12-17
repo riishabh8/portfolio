@@ -1,0 +1,15 @@
+.handles--heading {
+  font-family: "Playfair Display", serif;
+  font-size: 4.5rem;
+  text-align: center;
+  letter-spacing: 2px;
+}
+.section--handles {
+  height: 100vh;
+  background-color: gray;
+}
+.handles--card-content {
+  /* color: rgba(255, 255, 255, 0); */
+  font-size: 120px;
+  /* -webkit-text-stroke: 1px green; */
+}
